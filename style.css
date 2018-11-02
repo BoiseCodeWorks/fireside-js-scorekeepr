@@ -1,0 +1,9 @@
+.h20 {
+  height: 20vh;
+}
+.h80 {
+  height: 80vh;
+}
+body {
+  user-select: none;
+}
